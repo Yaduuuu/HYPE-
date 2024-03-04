@@ -10,3 +10,22 @@ Features
 -Interactive features such as likes, comments, and direct messaging
 -Customizable profiles with bio and profile picture
 
+
+Installation:-
+https://github.com/Yaduuuu/HYPE-.git
+cd hype
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
+Access the application in your web browser at http://localhost:8000.
+
+
+Usage
+-Sign up for a new account or log in with existing credentials.
+-Customize your profile by adding a bio and profile picture.
+-Post photos and videos
+-Interact with other users by liking, commenting, or sending direct messages.
+-Explore trending content and discover new users to follow.
+
+
